@@ -132,9 +132,7 @@ The implementation is being rebuilt independently with a focus on clean design a
 ---
 
 ## Star History
-
-This repository gained traction after i backed up the code in just few hours
-## Star History
+This repository started gaining traction shortly after I backed up the code within a few hours of discovery.
 
 <a href="https://www.star-history.com/?repos=0xKarl-dev%2Fclaw-codes&type=date&legend=top-left">
  <picture>
