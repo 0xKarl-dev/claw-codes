@@ -24,7 +24,7 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 
 ## 🚧 Work in Progress
 
-A Rust version of this project is currently being worked on and will be pushed here soon. Stay tuned 🚀
+A Rust version of this project is currently being worked on and will be pushed here soon. Check the `/rust` directory for updates. Stay tuned 🚀
 
 ---
 
