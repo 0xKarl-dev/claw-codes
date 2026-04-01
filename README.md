@@ -22,6 +22,10 @@ If you find this project useful, consider giving it a star ⭐ and following me 
   <strong>Claw Codes is actively being rewritten into a high-performance agent framework</strong>
 </p>
 
+## 🚧 Work in Progress
+
+A Rust version of this project is currently being worked on and will be pushed here soon. Stay tuned 🚀
+
 <p align="center">
   Building better harness tools — focused on execution, not just structure or storage.
 </p>
