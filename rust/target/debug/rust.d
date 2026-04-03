@@ -1,1 +1,0 @@
-C:\Users\hp\Desktop\Revault\ Tech\ Website\revault-claude\my-project\claude-code\rust\target\debug\rust.exe: C:\Users\hp\Desktop\Revault\ Tech\ Website\revault-claude\my-project\claude-code\rust\src\main.rs
