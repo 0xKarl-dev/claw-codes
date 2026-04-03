@@ -1,1 +1,16 @@
-Update dev/rust branch
+# Rust build output
+/target/
+
+# Cargo lock (optional depending on project type)
+Cargo.lock
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
