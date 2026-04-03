@@ -15,6 +15,11 @@
 ## ⭐ Support
 
 If you find this project useful, consider giving it a star ⭐ and following me on GitHub.
+<p align="center">
+  <a href="https://github.com/sponsors/0xKarl-dev">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
