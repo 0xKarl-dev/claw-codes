@@ -14,12 +14,11 @@
 
 
 
-
 ## ⭐ Support
 
 If you find this project useful, consider giving it a star ⭐ and following me on GitHub.
 <p align="center">
-  <a href="https://github.com/sponsors/0xKarl-dev">
+  <a href="https://github.com/0xKarl-dev/claw-codes#-wallets">
     <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor on GitHub" />
   </a>
 </p>
