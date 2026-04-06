@@ -195,6 +195,12 @@ If you find this work useful, consider supporting **0xKarl-dev** to help continu
 
 ### 🪙 Wallets
 
+**BTC**
+
+```
+bc1q0dhqj9e3fwnmjf78ns33xee0g0plveq4w8khga
+```
+
 **SOL**
 
 ```
