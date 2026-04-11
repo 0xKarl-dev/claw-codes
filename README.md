@@ -16,7 +16,7 @@
 
 ## ⭐ Support
 
-If you find this project useful, consider giving it a star ⭐ and following me on GitHub.
+If you find this project useful, consider giving it a star ⭐ and following me on GitHub. If you need assistance DM me through my socials.
 <p align="center">
   <a href="https://github.com/0xKarl-dev/claw-codes#-support-the-project">
     <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor on GitHub" />
